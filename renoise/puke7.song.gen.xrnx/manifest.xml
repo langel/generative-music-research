@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>puke7.song.gen</Id>
+  <Version>0.81000000000000005</Version>
+  <Author>puke7</Author>
+  <Name>Song Generator</Name>
+  <Category>Song Editor</Category>
+  <Description>puts stuff in places</Description>
+  <Homepage>https://loblast.com</Homepage>
+</RenoiseScriptingTool>
